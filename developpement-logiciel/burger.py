@@ -24,7 +24,7 @@ def get_order_timestamp():
 
 
 def get_bun():
-    bun_type = input("What kind of bun would you like? ")
+    bun_type = input("What kind of buns would you like? ")
     print(f"Selected bun: {bun_type}")
     return bun_type
 
